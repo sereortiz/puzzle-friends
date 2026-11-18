@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle Friends",
+  "short_name": "PuzzleFriends",
+  "description": "Rede social, estante virtual e lista de desejos para colecionadores de quebra-cabeças.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/993/993686.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
